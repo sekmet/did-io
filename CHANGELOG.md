@@ -1,5 +1,13 @@
 # did-io ChangeLog
 
+## 0.9.0 - TBD
+
+### Added
+- Added a general-purpose `DidDocument` class.
+
+### Changed
+- **BREAKING**: Changed module export signature.
+
 ## 0.8.1 - 2020-05-01
 
 ### Added
